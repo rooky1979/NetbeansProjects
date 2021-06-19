@@ -8,3 +8,5 @@ assignment 2 - main is in the MovieBookingGUI.java file.  Right click and run fi
 assignment 3 - main is in the ShapeSketcher.java file.  Right click and run file
 
 virtualPet - go to services and start the Java DB before starting.  Right click on the VirtualPet project and run.  Requires Derby to run
+
+**NOTE THAT THESE PROJECTS WERE BUILT USING NETBEANS 8.2 AND JDK 8**
